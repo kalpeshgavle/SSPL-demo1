@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.nav-list {
+    list-style: none;
+
+}
+
+.navbar-section {
+    background-color: #dfece3;
+}
+
+.nav-list a {
+    text-decoration: none;
+    color: gray;
+}
+
+.nav-list a:hover {
+    color: black;
+}
+
+.form-content {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+}
